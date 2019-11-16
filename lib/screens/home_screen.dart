@@ -158,15 +158,6 @@ class _HomeScreenState extends State<HomeScreen> {
         floatingActionButton: FloatingActionButton(
           onPressed: () {
             _getRandom();
-            /*String mini = myControllerMin.text;
-          return showDialog(
-              context: context,
-          builder: (context) {
-                return AlertDialog(
-                  content: Text(mini),
-                );
-          },
-          );*/
           },
           child: Icon(Icons.add),
         ),
