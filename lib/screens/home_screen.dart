@@ -73,7 +73,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Padding(
               padding: pad,
               child: Text(
-                "Max",
+                "Min",
                 style: TextStyle(
                   fontSize: 20,
                 ),
@@ -98,7 +98,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Padding(
               padding: pad,
               child: Text(
-                "Min",
+                "Max",
                 style: TextStyle(
                   fontSize: 20,
                 ),
